@@ -1,0 +1,29 @@
+body{
+    margin-left: 20px;
+    background-image: url("whatsappImage.avif");
+    background-size: cover;
+}
+
+.chat{
+    background-color: rgb(227, 238, 241);
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    width: 300px;
+}
+
+.msg{
+    background-color: green;
+    color: white; 
+    border-radius: 16px;
+    padding: 5px 15px;
+}
+h1{
+    color: rgb(1, 46, 1);
+}
+button{
+    color: rgb(1, 46, 1);
+    background-color: rgb(140, 225, 140);
+    border-radius: 20px;
+    padding: 5px;
+}
